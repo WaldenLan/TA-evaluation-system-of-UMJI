@@ -1,0 +1,126 @@
+body{
+	background-color: #E6E5E5;
+	font-family: "Microsoft Yahei", Arial, Helvetica, sans-serif;
+	/*font-size: 12px;*/
+	margin: 0;
+	padding: 0;
+	height: 1000px;
+}
+
+a{
+	text-decoration: none;
+}
+
+h1{
+	font-size: 1.75em;
+}
+
+._top{
+	margin: 0 10%;
+	overflow: auto;
+}
+
+._top h1{
+	color: #002b60;
+	padding: 22px 0;
+	float: right;
+}
+
+._top img{
+	vertical-align: bottom;
+}
+
+._top img, h1{
+	display: inline-block;
+	text-align: center;
+	vertical-align: middle;
+}
+
+/*The banner part is here*/
+
+div.banner{
+	background-color: #DDDCDC;	
+	width: 100%;
+	box-shadow: 0 0 5px #002b60;
+}
+
+div.banner p.ban {
+	padding: 10px 10px;
+	color: #002b60; 
+	margin-left: 10%;
+	margin-right: 10%;
+	text-align: right;
+}
+
+/*The end bar is here*/
+
+div.endbar{
+	margin:0;
+	background-color: #002b60;
+}
+
+div.endbar div._content{
+	margin-left:10%;
+	margin-right: 10%;
+	padding: 5px 22px;
+}
+
+div.endbar div._content p, p a{
+	font-size: 14px;
+	color: #E6E5E5;
+}
+
+
+/*------------------------------------------*/
+/*The above is the shared style of all pages*/
+/*------------------------------------------*/
+
+
+
+/*The Content Body is here*/
+div.body{
+	height:1000px;
+}
+div.sidebar, div.maincontent{
+	display: inline-block;
+}
+/*The side bar is here*/
+
+
+div.sidebar{
+	margin: 0 10%;
+	width: 10%;
+	position: absolute;
+}
+
+div.sidebar td{
+	background:#002b60;
+	padding: 15px 22px;
+	text-align: center;
+}
+div.sidebar td a{
+	color: #E6E5E5;
+}
+
+div.sidebar td#tag1{
+	background:#0055BD;  
+}
+
+div.sidebar td a:hover{
+	color: #F9F9F9;
+	cursor: pointer;
+}
+/*The main content part is here*/
+div.maincontent{
+	margin-top: 5px;
+	margin-left: 20%;
+	margin-right: 10%;
+	background-color: #DDDCDC;
+	box-shadow: 0 0 5px #002b60;
+	width: 69%;
+	height: 95%;
+	overflow: auto;
+}
+
+
+
