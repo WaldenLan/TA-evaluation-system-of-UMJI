@@ -128,22 +128,27 @@ div.sidebar{
 	float: left;
 }
 
-div.sidebar td{
-	background:#002b60;
-	padding: 15px 15px;
-	text-align: left;
-	border-radius: 5px;
-}
 div.sidebar td>a, td{
 	color: #E6E5E5;
 	display: block;
 }
 
-div.sidebar td#tag1{
+div.sidebar td{
+	margin-bottom: -0.7%;
+}
+
+div.sidebar a{
+	background:#002b60;
+	padding: 15px 15px;
+	text-align: left;
+	border-radius: 5px;
+}
+
+div.sidebar td#tag1>a{
 	background:#0055BD;
 }
 
-div.sidebar td:hover{
+div.sidebar a:hover{
 	background-color: #0055BD;
 	color: #F9F9F9;
 	cursor: pointer;
