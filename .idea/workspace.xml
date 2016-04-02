@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81e684d7-09d7-4b98-968c-bc83a3c30c63" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Formal Project/Login/echoTime.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Formal Project/Login/images/JI logo-01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Formal Project/Login/images/JI logo-02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Formal Project/Login/js/index.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Formal Project/Login/About.html" afterPath="$PROJECT_DIR$/Formal Project/Login/About.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Formal Project/Login/SignIn_regular.html" afterPath="$PROJECT_DIR$/Formal Project/Login/SignIn_regular.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Formal Project/Login/css/About.css" afterPath="$PROJECT_DIR$/Formal Project/Login/css/About.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Formal Project/Login/css/index.css" afterPath="$PROJECT_DIR$/Formal Project/Login/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Formal Project/Login/index.html" afterPath="$PROJECT_DIR$/Formal Project/Login/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Formal Project/Student_Page/Student_Homepage.html" afterPath="$PROJECT_DIR$/Formal Project/Student_Page/Student_Homepage.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Formal Project/Student_Page/css/Student_Homepage.css" afterPath="$PROJECT_DIR$/Formal Project/Student_Page/css/Student_Homepage.css" />
     </list>
     <ignored path="SoP_skill_demo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,7 +34,7 @@
             <entry file="file://$PROJECT_DIR$/Formal Project/Login/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="403">
-                  <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+                  <caret line="73" column="34" selection-start-line="73" selection-start-column="34" selection-end-line="73" selection-end-column="34" />
                   <folding />
                 </state>
               </provider>
@@ -293,23 +282,31 @@
       <workItem from="1459412759034" duration="232000" />
       <workItem from="1459587805286" duration="19000" />
       <workItem from="1459587923938" duration="115000" />
-      <workItem from="1459588181248" duration="254000" />
+      <workItem from="1459588181248" duration="528000" />
     </task>
+    <task id="LOCAL-00001" summary="Repair the &lt;a&gt; tag bug and repackage the Login part.&#10;Update till 2016.4.2">
+      <created>1459588453339</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1459588453339</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32275000" />
+    <option name="totallyTimeSpent" value="32549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-28" width="1366" height="796" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15681818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998565" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32855093" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32855093" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -683,7 +680,7 @@
     <entry file="file://$PROJECT_DIR$/Formal Project/Login/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
-          <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+          <caret line="73" column="34" selection-start-line="73" selection-start-column="34" selection-end-line="73" selection-end-column="34" />
           <folding />
         </state>
       </provider>
