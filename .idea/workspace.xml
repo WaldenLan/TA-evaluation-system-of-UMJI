@@ -5,6 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81e684d7-09d7-4b98-968c-bc83a3c30c63" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Formal Project/images/JI logo-01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Formal Project/images/JI logo-02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Formal Project/Login/Acknowledgments.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Formal Project/Login/Features.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Formal Project/Login/Help.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Formal Project/Login/css/Acknowledgments.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Formal Project/Login/css/Features.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Formal Project/Login/css/Help.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Formal Project/js/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SoP_skill_demo.iws" />
@@ -282,7 +292,7 @@
       <workItem from="1459412759034" duration="232000" />
       <workItem from="1459587805286" duration="19000" />
       <workItem from="1459587923938" duration="115000" />
-      <workItem from="1459588181248" duration="528000" />
+      <workItem from="1459588181248" duration="679000" />
     </task>
     <task id="LOCAL-00001" summary="Repair the &lt;a&gt; tag bug and repackage the Login part.&#10;Update till 2016.4.2">
       <created>1459588453339</created>
@@ -291,11 +301,18 @@
       <option name="project" value="LOCAL" />
       <updated>1459588453339</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add some files omitted&#10;Update till 2016.4.2">
+      <created>1459588737148</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1459588737148</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32549000" />
+    <option name="totallyTimeSpent" value="32700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-28" width="1366" height="796" extended-state="6" />
@@ -339,7 +356,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Repair the &lt;a&gt; tag bug and repackage the Login part.&#10;Update till 2016.4.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Repair the &lt;a&gt; tag bug and repackage the Login part.&#10;Update till 2016.4.2" />
+    <MESSAGE value="Add some files omitted&#10;Update till 2016.4.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add some files omitted&#10;Update till 2016.4.2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
