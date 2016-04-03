@@ -4144,9 +4144,18 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
-  color: #fff;
-  background-color: #337ab7;
+    color: #eee;
+    background-color: #002b60;
+    border-bottom: 2.5px solid #fdca00;
 }
+.nav-pills > li.non-active >a{
+    color: #002b60;
+    background-color: #E6E5E5;
+}
+.nav-pills > li.non-active > a:hover{
+    border-bottom: 2.5px solid #fdca00;
+}
+
 .nav-stacked > li {
   float: none;
 }
@@ -4155,7 +4164,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   margin-left: 0;
 }
 .nav-justified {
-  width: 100%;
+  width: 80%;
 }
 .nav-justified > li {
   float: none;

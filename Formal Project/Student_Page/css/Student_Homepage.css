@@ -1,7 +1,6 @@
 body{
 	background-color: #eee;
 	font-family: "Microsoft Yahei", Arial, Helvetica, sans-serif;
-	/*font-size: 12px;*/
 	margin: 0;
 	padding: 0;
 	height: auto;
@@ -42,6 +41,14 @@ h1{
 	vertical-align: middle;
 }
 
+/*The navigator is here*/
+ul.nav.nav-pills.nav.nav-justified{
+    margin: 0 10% 1% 10%;
+}
+
+
+
+
 /*The banner part is here*/
 
 div.banner{
@@ -60,6 +67,16 @@ div.banner  a{
 	float: right;
 	border: 1.5px solid #002b60;
 	border-radius: 5px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+div.banner span{
+    display: inline-block;
+    text-decoration: none;
+    float: right;
+    padding: 0.25% 1%;
+    margin: 0.75% 0;
 }
 
 div.banner a:hover{
@@ -76,9 +93,6 @@ div.banner > div{
 	margin-right: 10%;
 }
 
-div.banner a{
-	display: inline-block;
-}
 
 
 
@@ -120,57 +134,34 @@ div.body{
 	clear:right;
 }
 
-/*The side bar is here*/
-
-div.sidebar{
-	margin: 0 0 0 10%;
-	width: 10%;
-	float: left;
-}
-
-div.sidebar td>a, td{
-	color: #E6E5E5;
-	display: block;
-}
-
-div.sidebar td{
-	margin-bottom: -0.7%;
-}
-
-div.sidebar a{
-	background:#002b60;
-	padding: 15px 15px;
-	text-align: left;
-	border-radius: 5px;
-}
-
-div.sidebar td#tag1>a{
-	background:#0055BD;
-}
-
-div.sidebar a:hover{
-	background-color: #0055BD;
-	color: #F9F9F9;
-	cursor: pointer;
-}
-
 /*The main content part is here*/
 
 div.maincontent{
 	border-radius: 5px;
 	margin-top: 0.3%;
 	margin-right: 10%;
+    margin-left: 10%;
 	background-color: #E6E5E5;
 	box-shadow: 0 0 5px #002b60;
-	width: 65%;
+    width: 80%;
 	height: 80%;
 	overflow: auto;
-	float: right;
 }
-
-/*div.maincontent p{*/
-	/*font-size: 0.95em;*/
-/*}*/
+div.announcement {
+    margin: 4%;
+}
+div.announcement h2{
+    padding-bottom: 15px;
+    border-bottom: 2px solid #0055BD;
+    font-weight: 500;
+    font-size: 1.25em;
+}
+div.announcement > ul li{
+    list-style-type: circle;
+}
+div.maincontent p{
+	font-size: 0.95em;
+}
 
 
 
