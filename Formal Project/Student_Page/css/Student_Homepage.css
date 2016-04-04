@@ -43,7 +43,7 @@ h1{
 
 /*The navigator is here*/
 ul.nav.nav-pills.nav.nav-justified{
-    margin: 0 10% 1% 10%;
+    margin: 0 10% 0 10%;
 }
 
 
@@ -51,21 +51,30 @@ ul.nav.nav-pills.nav.nav-justified{
 
 /*The banner part is here*/
 
+/*div.banner{*/
+	/*background-color: #E6E5E5;*/
+	/*width: 100%;*/
+	/*box-shadow: 0 0 5px #002b60;*/
+	/*margin-bottom: 1%;*/
+	/*overflow: hidden;*/
+/*}*/
+
 div.banner{
-	background-color: #E6E5E5;
-	width: 100%;
-	box-shadow: 0 0 5px #002b60;
-	margin-bottom: 1%;
-	overflow: hidden;
+    background-color: inherit;
+    width: 100%;
+    /*box-shadow: 0 0 5px #002b60;*/
+    margin-bottom: 0.25%;
+    overflow: hidden;
 }
 
-div.banner  a{
+
+div.banner a{
 	margin: 0.75% 0;
-	padding: 0.25% 1%;
+	padding: 0.15% 1%;
 	color: #002b60;
 	text-align: right;
 	float: right;
-	border: 1.5px solid #002b60;
+	border: 1px solid #002b60;
 	border-radius: 5px;
     display: inline-block;
     text-decoration: none;
@@ -75,25 +84,18 @@ div.banner span{
     display: inline-block;
     text-decoration: none;
     float: right;
-    padding: 0.25% 1%;
+    padding: 0.2% 1%;
     margin: 0.75% 0;
 }
 
 div.banner a:hover{
 	cursor: pointer;
 	color: #0055BD;
-	border: 1.5px solid #0055BD;
+	border: 1px solid #0055BD;
 }
-
-div.banner div.regular_login a{
-	margin-right: 1.5%;
-}
-
 div.banner > div{
 	margin-right: 10%;
 }
-
-
 
 
 /*The end bar is here*/
@@ -106,17 +108,17 @@ div.endbar{
 div.endbar div._content{
 	margin-left: 10%;
 	margin-right: 10%;
-	padding: 5px 22px;
+	padding: 18px 22px 5px 22px;
 }
 
-div.endbar div._content p:first-child, p>a{
-	font-size: 0.875em;
+div.endbar div._content p, p>a{
+	font-size: 1em;
 	color: #E6E5E5;
 }
 
 div.endbar div._content p:last-child{
 	text-align: right;
-	font-size: 0.875em;
+	font-size: 1em;
 	color: #E6E5E5;
 }
 div.endbar div._content span#serverTime{
@@ -138,7 +140,6 @@ div.body{
 
 div.maincontent{
 	border-radius: 5px;
-	margin-top: 0.3%;
 	margin-right: 10%;
     margin-left: 10%;
 	background-color: #E6E5E5;
@@ -148,19 +149,22 @@ div.maincontent{
 	overflow: auto;
 }
 div.announcement {
-    margin: 4%;
+    margin: 3% 5% 5% 5%;
 }
 div.announcement h2{
     padding-bottom: 15px;
     border-bottom: 2px solid #0055BD;
     font-weight: 500;
-    font-size: 1.25em;
+    font-size: 1.35em;
 }
 div.announcement > ul li{
     list-style-type: circle;
 }
+div.announcement > ul{
+    margin-top: 2%;
+}
 div.maincontent p{
-	font-size: 0.95em;
+	font-size: 1em;
 }
 
 
