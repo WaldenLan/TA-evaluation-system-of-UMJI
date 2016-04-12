@@ -4,11 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/index_skill.html" line="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81e684d7-09d7-4b98-968c-bc83a3c30c63" name="Default" comment="Add the JS function to prompt the students when pressing the &lt;Sign Out&gt; button.&#10;Update till 2016.4.7">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Formal Project/js/confirmLogout.js" />
+    <list default="true" id="81e684d7-09d7-4b98-968c-bc83a3c30c63" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Formal Project/Student_Page/Student_Homepage.html" afterPath="$PROJECT_DIR$/Formal Project/Student_Page/Student_Homepage.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Formal Project/Student_Page/Student_TA Evaluation.html" afterPath="$PROJECT_DIR$/Formal Project/Student_Page/Student_TA Evaluation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Formal Project/Student_Page/css/Student_Homepage.css" afterPath="$PROJECT_DIR$/Formal Project/Student_Page/css/Student_Homepage.css" />
     </list>
     <ignored path="SoP_skill_demo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,14 +30,14 @@
     <favorites_list name="SoP_skill_demo" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.55449826">
+    <splitter split-orientation="horizontal" split-proportion="0.66402376">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="Student_TA Evaluation.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Formal Project/Student_Page/Student_TA Evaluation.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="115">
-                  <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+                <state relative-caret-position="230">
+                  <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
                   <folding />
                 </state>
               </provider>
@@ -47,7 +47,7 @@
             <entry file="file://$PROJECT_DIR$/Formal Project/Student_Page/Student_Homepage.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="152">
-                  <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+                  <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
                   <folding />
                 </state>
               </provider>
@@ -67,11 +67,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Student_Homepage.css" pinned="false" current-in-tab="false">
+          <file leaf-file-name="Student_Homepage.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Formal Project/Student_Page/css/Student_Homepage.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="3496">
-                  <caret line="152" column="1" selection-start-line="152" selection-start-column="1" selection-end-line="152" selection-end-column="1" />
+                <state relative-caret-position="161">
+                  <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -87,7 +87,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="confirmLogout.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="confirmLogout.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Formal Project/js/confirmLogout.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="161">
@@ -160,11 +160,11 @@
         <option value="$PROJECT_DIR$/Formal Project/Login/index.html" />
         <option value="$PROJECT_DIR$/Formal Project/bootstrap-3.3.5-dist/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/Formal Project/Student_Page/Student_TA Evaluation" />
-        <option value="$PROJECT_DIR$/Formal Project/Student_Page/css/Student_Homepage.css" />
         <option value="$PROJECT_DIR$/Formal Project/Student_Page/css/Student_TA Evaluation.css" />
         <option value="$PROJECT_DIR$/Formal Project/js/confirmLogout.js" />
-        <option value="$PROJECT_DIR$/Formal Project/Student_Page/Student_Homepage.html" />
+        <option value="$PROJECT_DIR$/Formal Project/Student_Page/css/Student_Homepage.css" />
         <option value="$PROJECT_DIR$/Formal Project/Student_Page/Student_TA Evaluation.html" />
+        <option value="$PROJECT_DIR$/Formal Project/Student_Page/Student_Homepage.html" />
       </list>
     </option>
   </component>
@@ -185,8 +185,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="y" value="-4" />
     <option name="width" value="1366" />
-    <option name="height" value="768" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -213,6 +214,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -342,7 +344,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -432,7 +433,8 @@
       <workItem from="1459755822786" duration="6666000" />
       <workItem from="1459996473166" duration="740000" />
       <workItem from="1460001949200" duration="177000" />
-      <workItem from="1460002436085" duration="1845000" />
+      <workItem from="1460002436085" duration="1977000" />
+      <workItem from="1460438277201" duration="1878000" />
     </task>
     <task id="LOCAL-00001" summary="Repair the &lt;a&gt; tag bug and repackage the Login part.&#10;Update till 2016.4.2">
       <created>1459588453339</created>
@@ -469,17 +471,24 @@
       <option name="project" value="LOCAL" />
       <updated>1459762422583</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add the JS function to prompt the students when pressing the &lt;Sign Out&gt; button.&#10;Update till 2016.4.7">
+      <created>1460005392438</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1460005392438</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51152000" />
+    <option name="totallyTimeSpent" value="53162000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1310606" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23560606" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -520,7 +529,8 @@
     <MESSAGE value="Add some files omitted&#10;Update till 2016.4.2" />
     <MESSAGE value="Adding the homepage for student login&#10;Update till 2016.4.3" />
     <MESSAGE value="Repair the bootstrap bug for the overlap with the local css file;&#10;Rearrange the layout for the student login page;&#10;Adding the TA Evaluation page for student login;&#10;Update till 2016.4.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Repair the bootstrap bug for the overlap with the local css file;&#10;Rearrange the layout for the student login page;&#10;Adding the TA Evaluation page for student login;&#10;Update till 2016.4.4" />
+    <MESSAGE value="Add the JS function to prompt the students when pressing the &lt;Sign Out&gt; button.&#10;Update till 2016.4.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the JS function to prompt the students when pressing the &lt;Sign Out&gt; button.&#10;Update till 2016.4.7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -801,25 +811,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Formal Project/Login/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Formal Project/bootstrap-3.3.5-dist/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92713">
           <caret line="4031" column="19" selection-start-line="4031" selection-start-column="19" selection-end-line="4031" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Formal Project/Student_Page/css/Student_Homepage.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3496">
-          <caret line="152" column="1" selection-start-line="152" selection-start-column="1" selection-end-line="152" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -848,18 +843,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Formal Project/Login/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-598">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Formal Project/Student_Page/css/Student_Homepage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Formal Project/Student_Page/Student_Homepage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Formal Project/Student_Page/Student_TA Evaluation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        <state relative-caret-position="230">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
           <folding />
         </state>
       </provider>
